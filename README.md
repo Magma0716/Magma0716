@@ -1,6 +1,5 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋 I'm magma0716</h1>
-<h3 align="center">Software Engineer | Algorithm & System Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=magma0716&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -8,90 +7,81 @@
   <img src="https://img.shields.io/github/stars/magma0716?label=Stars&style=flat" />
 </p>
 
----
+## 💻 Programming Languages
 
-## 🧠 About Me
+<p align="left">
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45" height="45" alt="Lua"/>
+  <br/>
+  
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="45" height="45" alt="Markdown"/>
+  <br/>
+  
+  <!-- Data / DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R"/>
+  <br/>
+</p>
 
-- 🎓 Background in **Computer Science / Software Engineering**
-- 💻 Focus on **Algorithms, Networking, Embedded & System Programming**
-- 🔍 Interested in **AI applications, packet analysis, system optimization**
-- 🛠 Love turning **complex problems into clean, efficient code**
-- 🇹🇼 Based in Taiwan
-
-> *"Code is not just to make things work, but to make them elegant."*
-
----
-
-## 🧰 Tech Stack & Skill Levels
-
-### 🖥 Programming Languages
-
-| Language | Proficiency | Level |
-|--------|------------|-------|
-| **C / C++** | ██████████░░ | ⭐⭐⭐⭐⭐ |
-| **Python** | █████████░░░ | ⭐⭐⭐⭐☆ |
-| **C#** | ████████░░░░ | ⭐⭐⭐⭐☆ |
-| **Lua** | ███████░░░░░ | ⭐⭐⭐☆☆ |
-| **Java** | ██████░░░░░░ | ⭐⭐⭐☆☆ |
-| **SQL** | ████████░░░░ | ⭐⭐⭐⭐☆ |
-| **JavaScript** | ██████░░░░░░ | ⭐⭐⭐☆☆ |
-
----
-
-### ⚙️ Computer Science Fundamentals
-
-| Skill | Level |
-|-----|------|
-| Data Structures & Algorithms | ⭐⭐⭐⭐⭐ |
-| Object-Oriented Design (OOP) | ⭐⭐⭐⭐☆ |
-| Operating Systems Concepts | ⭐⭐⭐⭐☆ |
-| Networking (TCP/IP, UDP, Packet) | ⭐⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐⭐☆ |
-
----
-
-### 🌐 Networking & Systems
-
-- 📡 Packet Analysis (Wireshark / Custom Protocols)
-- 🧩 UWB / Embedded Communication
-- 🔐 Encryption & Binary Protocol Parsing
-- 🚀 Performance Optimization
-
----
-
-### 🛠 Tools & Technologies
+## 🛠 Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git">
-  <img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux">
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker">
   <img src="https://img.shields.io/badge/-Wireshark-black?style=flat&logo=wireshark">
   <img src="https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code">
 </p>
 
----
+## 📐 Mathematics
 
-## 📊 GitHub Stats
+**Appreciate – BlackPenRedPen**
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=magma0716&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magma0716&layout=compact&theme=tokyonight" />
-</p>
+- ✅ 微分 100 題（2024/07/04）
+- ✅ 極限 100 題（2024/07/13）
+- ✅ 積分 100 題（2024/07/30）
+- ✅ 三角恆等式 24 題（2024/08/01）
+- 🟡 積分 100 題 Part 2（目前 53 題）
+- 🟡 Σ 級數 100 題
 
----
+## 💻 Programming
 
-## 🏆 Achievements & Highlights
+**Appreciate – Bro Code**
 
-- ✅ Strong foundation in **algorithm analysis**
-- ✅ Experience with **real packet-level data parsing**
-- ✅ Capable of designing **end-to-end systems**
-- ✅ Clean, maintainable, and scalable code style
+- ✅ 6 小時 C++（2024/09/23）
+- ✅ 1 小時 HTML（2024/09/28）
+- ✅ 4 小時 C（2024/10/03）
+- ✅ 1 小時 CSS（2024/10/12）
+- ✅ 1 小時 NumPy（2025/08/11）
+- ✅ 4 小時 C#（2025/10/06）
 
----
+## 📘 Vocabulary
 
-## 📌 Coding Philosophy
+**Appreciate – 哥倫布**
 
-```text
-Readable > Clever  
-Stable > Fancy  
-Correct > Fast (then optimize)
+- ✅ 果園 4（2024/09/13）
+- ✅ 果園 5（約 2023/12）
+- 🟡 果園 6
+- 🟡 果園 3（2024/11/27 全種完）
+
+## 🎓 Certifications
+
+**Appreciate – myself**
+
+- ✅ **TQC – Word 專業級 (C)**
+- ✅ **TQC – Excel 進階級 (C)**
+- ✅ **IPAS – 資訊安全 (B)**
+- ✅ **IPAS – 資料分析 (B)**
+- ✅ **TQC+ – Python (B)**
+- ✅ **TQC+ – C v2 (B)**
+- ✅ **TQC+ – Python 網頁資料擷取與分析 (B)**
+- ✅ **IPAS – 資料分析  (A)**
+- ✅ **IPAS – 機器學習  (A)**
