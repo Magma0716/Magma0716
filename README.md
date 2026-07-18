@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋 I'm magma0716</h1>
+<h1 align="center">Hi 👋 I'm magma</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=magma0716&label=Profile%20Views&color=0e75b6&style=flat" />
